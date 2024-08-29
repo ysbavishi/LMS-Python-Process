@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "lms"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "<3.13,>=3.9.0"
+torch = "2.3.1"
+torchvision = "0.18.1"
+unstructured = {extras = ["pdf"], version = "^0.15.7"}
+onnx = "1.16.1"
+libmagic = "^1.0"
+python-magic-bin = "0.4.14"
+
+[[tool.poetry.source]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl.cpu"
+priority = "explicit"
+
+[tool.poetry.scripts]
+lms="lms.__main__:main"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

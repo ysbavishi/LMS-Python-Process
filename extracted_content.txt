@@ -1,0 +1,13 @@
+GOLUB CAPITAL
+Activity Memo
+*** Daily Wire Detail w/Calcs ***
+To: MS-MTPE@StateStreet.com From: Joycelyn Gay
+P-SLIC Financing SPV LLC Golub Capital Markets LLC Phone: Phone: 312-205-5049 Fax: Fax: 312-201-9167 Email: _MS-MTPE@StateStreet.com Email: —loan_admin@golubcapital.com Issuer: Bullhorn, Inc. Bank Deal: October 2019 MEI: CUSIP:
+Effective Date: 3/29/2024
+USD Term Loan
+Contract(s)
+Global Amount Lender Share Accrual Period Base Rate Spread _ Interest From Interest From Interest From Base Rate Spread Spread Adjustment
+CME Term SOFR Contract : Term SOFR (USD) (CME Term SOFR) (Term/2) Spread Adj: 0.10000% Basis: ACT/ACT Maturity Date: 3/29/2024
+Activity: Scheduled Paydown - Principal
+1,025,000.00 390.31 2/29/2024 - 3/29/2024 5.32626% 5.50000% - - - Cash Amount (USD): 390.31 Activity: Scheduled Paydown - Jnterest 393,600,000.00 149,879.40 2/29/2024 - 3/29/2024 5.32626% 5.50000% 632.53 653.16 11.88 Cash Amount (USD): 1,297.57 Total Principal and Interest/Fees - USD Term Loan (USD): 1,687.88 Notes: USD wire instructions for P-SLIC Financing SPV LLC USD 1,687.88 ** Wire instructions are missing for the Portfolio ** Reference: Bullhorn, Inc. Comments: Produced by Wall Street Office Page 1 of 1
+Run date 3/28/2024
