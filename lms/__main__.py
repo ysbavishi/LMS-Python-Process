@@ -21,6 +21,7 @@ def main():
         print(f"Content has been saved to 'extracted_content.txt'")
     except Exception as e:
         print(f"An error occurred while processing the PDF: {str(e)}")
+        input("Press enter to continue")
         sys.exit(1)
     
 
